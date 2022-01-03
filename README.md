@@ -1,2 +1,2 @@
-# lks_bmstu_parser
-Parse your marks from lks-bmstu
+# parsers
+Try to parse information from different places
